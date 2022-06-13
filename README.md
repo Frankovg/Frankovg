@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Franco
+### Hello world 👋, I'm is Franco
 #### FullStack Web Developer || Industrial Designer
 ![FullStack Web Developer || Industrial Designer](https://github.com/Frankovg/Frankovg/blob/main/1654266267097.jfif)
 
