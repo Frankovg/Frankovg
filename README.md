@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Franco
 #### FullStack Web Developer || Industrial Designer
-![FullStack Web Developer || Industrial Designer](https://media-exp1.licdn.com/dms/image/C4E16AQHCYeap3dZ-Pw/profile-displaybackgroundimage-shrink_350_1400/0/1654266267097?e=1660780800&v=beta&t=RW36N9YJ8CVHSEICWfBdyAoQxokMIgL7YOuE6dy5ZvE)
+![FullStack Web Developer || Industrial Designer](https://github.com/Frankovg/Frankovg/blob/main/1654266267097.jfif)
 
 🤠 My name is Franco Amoroso, I have studied Industrial Design at National University of Mar del Plata (Argentina), I am very curious and I am always learning something new.
 
@@ -23,7 +23,9 @@ Skills: REACT / JS / HTML / CSS / NODE.js / MYSQL
 - 📫 How to reach me: di.francoamoroso@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Frankovg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/francoamoroso//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Frankovg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francoamoroso/)  
+
+
 
 
 
