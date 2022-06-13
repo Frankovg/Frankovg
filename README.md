@@ -1,4 +1,6 @@
-👋 HELLO WORLD!
+### Hi there 👋, my name is Franco
+#### FullStack Web Developer || Industrial Designer
+![FullStack Web Developer || Industrial Designer](https://media-exp1.licdn.com/dms/image/C4E16AQHCYeap3dZ-Pw/profile-displaybackgroundimage-shrink_350_1400/0/1654266267097?e=1660780800&v=beta&t=RW36N9YJ8CVHSEICWfBdyAoQxokMIgL7YOuE6dy5ZvE)
 
 🤠 My name is Franco Amoroso, I have studied Industrial Design at National University of Mar del Plata (Argentina), I am very curious and I am always learning something new.
 
@@ -12,5 +14,10 @@
 
 🕹 Computers are my favorite hobby, I consider myself a geek since I was a child. Also, I like other things like mountain biking, outdoor adventure, and video games.
 
-📧 If you require any further information, feel free to contact me to di.francoamoroso@gmail.com or you can check out my Linkedin at https://www.linkedin.com/in/francoamoroso/
+Skills: REACT / JS / HTML / CSS / NODE.js / MYSQL
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
