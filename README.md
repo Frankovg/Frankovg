@@ -1,9 +1,16 @@
-👋 Hi, I’m @Frankovg (Franco Amoroso), I'm from Argentina but actually I'm living in Spain. I'm 31 years old and I'm an Industrial Designer since 2014. I have experience doing Retail Design, Corporative Design, Graphics Design and also as a Visual Merchandiser. I consider myself as a geek, I have loved computeras all my life and I will be gamer for ever. Now I am taking the journey to become a Fullstack Web Developer, mixing my design expertice and my passion for technologies.
+👋 HELLO WORLD!
 
-👀 I’m interested in Frontend and Backend, User Experience and User Interfaces.
+🤠 My name is Franco Amoroso, I have studied Industrial Design at National University of Mar del Plata (Argentina), I am very curious and I am always learning something new.
 
-🌱 I’m currently learning everything about FULLSTACK from zero.
+🎓 My professional experience has been inclined towards branding and strategic design for points of purchase, having the most biggest corporations like L'Oréal Paris as clients. In Spain, I had the opportunity to work as a Graphic Designer working for advertising agencies.
 
-💞️ I’m looking to collaborate on website development and UX/UI.
+📡 I am passionate about technologies and science. Above all, everything related to computers.
 
-📫 How to reach me: by e-mail at di.francoamoroso@gmail.com or Facebook /difrancoamoroso/
+💻 At the moment I am studying Full Stack Web Developer at the Socratech's bootcamp , because I have decided that I need a change in my life and because I have always been interested about digital technologies. In addition, I consider that I can contribute a lot to the industry as a designer.
+
+🛠 The top technologies I am learning are HTML, CSS, JavaScript, React, Node.js and MySQL, among others.
+
+🕹 Computers are my favorite hobby, I consider myself a geek since I was a child. Also, I like other things like mountain biking, outdoor adventure, and video games.
+
+📧 If you require any further information, feel free to contact me to di.francoamoroso@gmail.com or you can check out my Linkedin at https://www.linkedin.com/in/francoamoroso/
+
