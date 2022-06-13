@@ -1,6 +1,7 @@
+![FullStack Web Developer || Industrial Designer](https://github.com/Frankovg/Frankovg/blob/main/1654266267097.jfif)
+
 ### Hello world 👋, I'm Franco
 #### FullStack Web Developer || Industrial Designer
-![FullStack Web Developer || Industrial Designer](https://github.com/Frankovg/Frankovg/blob/main/1654266267097.jfif)
 
 🤠 My name is Franco Amoroso, I have studied Industrial Design at National University of Mar del Plata (Argentina), I am very curious and I am always learning something new.
 
