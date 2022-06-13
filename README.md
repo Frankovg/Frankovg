@@ -3,7 +3,7 @@
 # Hello world!, I'm Franco
 ### FullStack Web Developer || Industrial Designer
 
-🤠 My name is Franco Amoroso, I have studied Industrial Design at National University of Mar del Plata (Argentina), I am very curious and I am always learning something new.
+🤠 I have studied Industrial Design at National University of Mar del Plata (Argentina), I am very curious and I am always learning something new.
 
 🎓 My professional experience has been inclined towards branding and strategic design for points of purchase, having the most biggest corporations like L'Oréal Paris as clients. In Spain, I had the opportunity to work as a Graphic Designer working for advertising agencies.
 
@@ -18,10 +18,10 @@
 ## Skills and Experience
 REACT / JS / HTML / CSS / NODE.js / MYSQL
 
-• 🌱 I’m currently learning Fullstack web development 
-• 👯 I’m looking to collaborate on User Interface 
-• 💬 Ask me about UX/UI 
-• 📫 How to reach me: di.francoamoroso@gmail.com 
+- 🌱 I’m currently learning Fullstack web development 
+- 👯 I’m looking to collaborate on User Interface 
+- 💬 Ask me about UX/UI 
+- 📫 How to reach me: di.francoamoroso@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Frankovg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francoamoroso/)  
