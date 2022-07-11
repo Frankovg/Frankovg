@@ -9,7 +9,7 @@
 
 🤠 I have studied Industrial Design at National University of Mar del Plata (Argentina), I am very curious and I am always learning something new.
 
-🎓 My professional experience has been inclined towards branding and strategic design for points of purchase, having the most biggest corporations like L'Oréal Paris as clients. In Spain, I had the opportunity to work as a Graphic Designer working for advertising agencies.
+🎓 My professional experience has been inclined towards branding and strategic design for points of purchase, having the most biggest corporations as clients  like L'Oréal Paris. In Spain, I had the opportunity to work as a Graphic Designer working for advertising agencies.
 
 📡 I am passionate about technologies and science. Above all, everything related to computers.
 
