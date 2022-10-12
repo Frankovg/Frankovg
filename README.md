@@ -3,11 +3,9 @@
 # Hello world!, I'm Franco
 ### FullStack Web Developer || Industrial Designer
 
-💻 At the moment I am studying Full Stack Web Developer at the Socratech's bootcamp , because I have decided that I need a change in my life and because I have always been interested about digital technologies. In addition, I consider that I can contribute a lot to the industry as a designer.
+💻 I am a Full Stack Web Developer with a strong Front-End orientation. As an Industrial Designer I am specialized in Product Design and I obtained a UX Design certification to be able to use my expertise in software development.
 
-🛠 The top technologies I am learning are HTML, CSS, JavaScript, React, Node.js and MySQL, among others.
-
-🤠 I have studied Industrial Design at National University of Mar del Plata (Argentina), I am very curious and I am always learning something new.
+🛠 The top technologies I am learning are JavaScript, React, Redux, Node.js and MySQL, among others.
 
 🎓 My professional experience has been inclined towards branding and strategic design for points of purchase, having the most biggest corporations as clients  like L'Oréal Paris. In Spain, I had the opportunity to work as a Graphic Designer working for advertising agencies.
 
