@@ -3,15 +3,14 @@
 # Hello world!, I'm Franco
 ### FullStack Web Developer || Industrial Designer 
 
-💻 I am a Full Stack Web Developer with a strong Front-End orientation. As an Industrial Designer I am specialized in Product Design and I obtained a UX Design certification to be able to use my expertise in software development.
+💻 I am a Full Stack Web Developer with a solid Front-End orientation. As an Industrial Designer, I am specialized in Product Design and I have obtained a UX Design certification to use my expertise in software development.
 
-🛠 The top technologies I am learning are JavaScript, React, Redux, Node.js and MySQL, among others.
+🛠 The top technologies I am learning are JavaScript, React, Redux, Node.js, HTML/CSS, and MySQL, among others.
 
-🎓 My professional experience has been inclined towards branding and strategic design for points of purchase, having the most biggest corporations as clients  like L'Oréal Paris. In Spain, I had the opportunity to work as a Graphic Designer working for advertising agencies.
+🎓 My professional experience has been inclined toward branding and strategic design for points of purchase, with the biggest corporations as clients like L'Oréal Paris. In Spain, I had the opportunity to work as a Graphic Designer working for advertising agencies.
 
-📡 I am passionate about technologies and science. Above all, everything related to computers.
+🕹 I am passionate about technology and everything related to computers. I also like mountain biking, outdoor adventure, and video games.
 
-🕹 Computers are my favorite hobby, I consider myself a geek since I was a child. Also, I like other things like mountain biking, outdoor adventure, and video games.
 
 ## Skills and Experience
 REACT / JS / HTML / CSS / NODE.js / MYSQL
