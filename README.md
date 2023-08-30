@@ -3,19 +3,25 @@
 # Hello world!, I'm Franco
 ### FullStack Web Developer || Industrial Designer 
 
-💻 I am a Full Stack Web Developer with a solid Front-End orientation. As an Industrial Designer, I am specialized in Product Design and I have obtained a UX Design certification to use my expertise in software development.
+💻 I am a Full Stack Web Developer with a strong Front-End orientation.  With a background in Industrial Design, my expertise lies in Product Design. To complement my skill set, I earned a UX Design certification that seamlessly integrates into my software development proficiency.
 
-🛠 The top technologies I am learning are JavaScript, React, Redux, Node.js, HTML/CSS, and MySQL, among others.
+🛠 The top technologies I am working with are Typescript, React, Next.js, and Tailwind. My familiarity extends to Back-End essentials with Node.js and SQL.
 
-🎓 My professional experience has been inclined toward branding and strategic design for points of purchase, with the biggest corporations as clients like L'Oréal Paris. In Spain, I had the opportunity to work as a Graphic Designer working for advertising agencies.
+👨‍💻 Currently, I am actively engaged as a Front-End developer at A-SAFE Digital, a software enterprise affiliated with A-SAFE (UK). I also contribute to the creation of interface designs for our products.
 
-🕹 I am passionate about technology and everything related to computers. I also like mountain biking, outdoor adventure, and video games.
+🕹 My passion revolves around technology and all facets of computing. Beyond the digital realm, I also like mountain biking, outdoor adventures, and video games.
 
+📧 Shall we talk?  feel free to reach out to me at di.francoamoroso@gmail.com.
+
+👨‍💻 My Linkedin > https://www.linkedin.com/in/francoamoroso/
+🛸 My web page > https://www.franamoroso.com/
+
+🙋‍♂️
 
 ## Skills and Experience
-REACT / JS / HTML / CSS / NODE.js / MYSQL
+REACT / NEXTJS / JS / HTML / CSS / NODE.js / MYSQL / TAILWIND
 
-- 🌱 I’m currently learning Fullstack web development 
+- 🌱 I’m currently learning and studying Fullstack web development 
 - 👯 I’m looking to collaborate on User Interface 
 - 💬 Ask me about UX/UI 
 - 📫 How to reach me: di.francoamoroso@gmail.com 
