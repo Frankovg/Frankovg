@@ -14,6 +14,7 @@
 📧 Shall we talk?  feel free to reach out to me at di.francoamoroso@gmail.com.
 
 👨‍💻 My Linkedin > https://www.linkedin.com/in/francoamoroso/
+
 🛸 My web page > https://www.franamoroso.com/
 
 🙋‍♂️
