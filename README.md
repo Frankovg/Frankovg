@@ -19,6 +19,9 @@
 
 🙋‍♂️
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frankovg&layout=compact)
+
+
 ## Skills and Experience
 REACT / NEXTJS / JS / HTML / CSS / NODE.js / MYSQL / TAILWIND
 
