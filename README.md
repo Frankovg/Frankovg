@@ -13,11 +13,11 @@
 
 📧 Shall we talk? feel free to reach out to me at di.francoamoroso@gmail.com.
 
-🤓 My professional Github > https://github.com/FranF3
+🤓 My professional Github > [FranF3](https://github.com/FranF3)
 
-🛸 My web page > https://www.franamoroso.com/
+🛸 My web page > [www.franamoroso.com](https://www.franamoroso.com/)
 
-📶 My LinkedIn > https://www.linkedin.com/in/francoamoroso/
+📶 My LinkedIn > [/francoamoroso](https://www.linkedin.com/in/francoamoroso/)
 
 
 ## Skills and Experience
