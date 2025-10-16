@@ -16,8 +16,8 @@
 
 ## Featured Projects
 
-### [Project Name 1](link-to-project)
-Brief description of what this project does and the technologies used. Highlight the impact or interesting technical challenges.
+### [Personal Portfolio Website]([link-to-project](https://github.com/Frankovg/MyWebPortfolio2.0))
+Modern portfolio site built with Next.js and TypeScript, showcasing my design and development work with a focus on clean UI and smooth user experience.
 
 ## Tech Stack
 
