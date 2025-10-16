@@ -3,18 +3,18 @@
 # Hello world!, I'm Franco
 ### FullStack Web Developer || Industrial Designer 
 
-💻 I am a Full Stack Web Developer with a strong Front-End orientation.  With a background in Industrial Design, my expertise lies in Product Design. To complement my skill set, I earned a UX Design certification that seamlessly integrates into my software development proficiency.
+💻 I am a Front-end Developer with a background as an Industrial Designer. To complement my skill set, I earned a UX Design certification that seamlessly integrates into my software development proficiency.
 
 🛠 The top technologies I am working with are Typescript, React, Next.js, and Tailwind. My familiarity extends to Back-End essentials with Node.js and SQL.
 
-👨‍💻 Currently, I am actively engaged as a Front-End developer at A-SAFE Digital, a software enterprise affiliated with A-SAFE (UK). I also contribute to the creation of interface designs for our products.
+👨‍💻 Currently, I am actively engaged as a Front-End developer at A-SAFE Digital, a software enterprise affiliated with A-SAFE (UK).
 
 🕹 My passion revolves around technology and all facets of computing. Beyond the digital realm, I also like mountain biking, outdoor adventures, and video games.
 
-📧 Shall we talk?  feel free to reach out to me at di.francoamoroso@gmail.com.
+📧 Shall we talk? feel free to reach out to me at di.francoamoroso@gmail.com.
 
-👨‍💻 My Linkedin > https://www.linkedin.com/in/francoamoroso/
-
+👨‍💻 My hobby Github > https://github.com/Frankovg
+🤓 My professional Github > https://github.com/FranF3
 🛸 My web page > https://www.franamoroso.com/
 
 🙋‍♂️
