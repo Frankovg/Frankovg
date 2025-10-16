@@ -1,4 +1,4 @@
-![FullStack Web Developer || Industrial Designer](https://github.com/Frankovg/Frankovg/blob/cd1b10f0009b5b26b62c75823d002ea275979be3/portada%20nueva.jpg)
+![FullStack Web Developer || Industrial Designer](https://drive.google.com/file/d/1OoH2gdSw9MpyeO24ydz0qQMFHlZiKbdL/view?usp=drive_link)
 
 # Hello world!, I'm Franco
 ### FullStack Web Developer || Industrial Designer 
