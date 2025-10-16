@@ -1,7 +1,7 @@
 ![FullStack Web Developer || Industrial Designer](https://github.com/Frankovg/Frankovg/blob/main/in-banner.png)
 
 # Hello world!, I'm Franco
-### FullStack Web Developer || Industrial Designer 
+### FullStack Web Developer || UX/UI Designer || Industrial Designer 
 
 💻 I am a Front-end Developer with a background as an Industrial Designer. To complement my skill set, I earned a UX Design certification that seamlessly integrates into my software development proficiency.
 
