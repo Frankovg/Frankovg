@@ -25,10 +25,10 @@ Brief description of what this project does and the technologies used. Highlight
 React • Next.js • TypeScript • Tailwind CSS • HTML • CSS
 
 **Backend**  
-Node.js • Prisma • SQL
+Node.js • Express • Prisma • SQL
 
 **Tools & Design**  
-Git • Figma • UX/UI Design • Industrial Design
+Git • Figma • Adobe Photoshop • Adobe Illustrator
 
 ## Let's Connect
 
