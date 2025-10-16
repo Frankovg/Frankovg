@@ -23,11 +23,8 @@
 
 
 ## Skills and Experience
-REACT / NEXTJS / JS / HTML / CSS / NODE.js / MYSQL / TAILWIND
+REACT / NEXT.js / TYPESCRIPT / TAILWIND / NODE.js / PRISMA
 
-- 🌱 I’m currently learning and studying Fullstack web development 
-- 👯 I’m looking to collaborate on User Interface 
-- 💬 Ask me about UX/UI 
 - 📫 How to reach me: di.francoamoroso@gmail.com 
 
 
