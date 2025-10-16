@@ -13,13 +13,9 @@
 
 📧 Shall we talk? feel free to reach out to me at di.francoamoroso@gmail.com.
 
-👨‍💻 My hobby Github > https://github.com/Frankovg
-
 🤓 My professional Github > https://github.com/FranF3
 
 🛸 My web page > https://www.franamoroso.com/
-
-🙋‍♂️
 
 
 ## Skills and Experience
@@ -28,7 +24,7 @@ REACT / NEXT.js / TYPESCRIPT / TAILWIND / NODE.js / PRISMA
 - 📫 How to reach me: di.francoamoroso@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Frankovg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francoamoroso/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francoamoroso/)  
 
 
 
