@@ -14,7 +14,9 @@
 📧 Shall we talk? feel free to reach out to me at di.francoamoroso@gmail.com.
 
 👨‍💻 My hobby Github > https://github.com/Frankovg
+
 🤓 My professional Github > https://github.com/FranF3
+
 🛸 My web page > https://www.franamoroso.com/
 
 🙋‍♂️
