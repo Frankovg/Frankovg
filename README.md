@@ -1,34 +1,42 @@
 ![FullStack Web Developer || Industrial Designer](https://github.com/Frankovg/Frankovg/blob/main/in-banner.png)
 
-# Hello, world!, I'm Franco
+# Hello, world! I'm Franco
+
 ### FullStack Web Developer || UX/UI Designer || Industrial Designer 
 
-💻 I am a Front-end Developer with a background as an Industrial Designer. To complement my skill set, I earned a UX Design certification that seamlessly integrates into my software development proficiency.
+## About Me
 
-🛠 The top technologies I am working with are Typescript, React, Next.js, and Tailwind. I also work with Back-End essentials with Node.js and SQL.
+💻 Front-end Developer with a background in Industrial Design and UX certification, bringing a unique perspective to software development.
 
-👨‍💻 Currently, I work as a Front-End developer at A-SAFE Digital, a software enterprise affiliated with A-SAFE (UK).
+🛠 Working primarily with **TypeScript**, **React**, **Next.js**, and **Tailwind CSS**, with backend experience in **Node.js** and **SQL**.
 
-🕹 I'm passionate about technology and all facets of computing. Beyond the digital realm, I also like mountain biking, outdoor adventures, and video games.
+👨‍💻 Currently working as a Front-End Developer at **A-SAFE Digital**, a software company affiliated with A-SAFE (UK).
 
-📧 Shall we talk? feel free to reach out to me at di.francoamoroso@gmail.com.
+🕹 Passionate about technology, computing, mountain biking, outdoor adventures, and video games.
 
-🤓 My professional Github > [FranF3](https://github.com/FranF3)
+## Featured Projects
 
-🛸 My web page > [www.franamoroso.com](https://www.franamoroso.com/)
+### [Project Name 1](link-to-project)
+Brief description of what this project does and the technologies used. Highlight the impact or interesting technical challenges.
 
-📶 My LinkedIn > [/francoamoroso](https://www.linkedin.com/in/francoamoroso/)
+## Tech Stack
 
+**Frontend**  
+React • Next.js • TypeScript • Tailwind CSS • HTML • CSS
 
-## Skills and Experience
-REACT / NEXT.js / TYPESCRIPT / TAILWIND / NODE.js / PRISMA
+**Backend**  
+Node.js • Prisma • SQL
 
+**Tools & Design**  
+Git • Figma • UX/UI Design • Industrial Design
 
+## Let's Connect
 
+📧 **Email:** di.francoamoroso@gmail.com  
+🤓 **Professional GitHub:** [FranF3](https://github.com/FranF3)  
+🛸 **Portfolio:** [www.franamoroso.com](https://www.franamoroso.com/)  
+📶 **LinkedIn:** [/francoamoroso](https://www.linkedin.com/in/francoamoroso/)
 
+---
 
-
-
-
-
-
+*Open to collaboration and interesting projects. Feel free to reach out!*
