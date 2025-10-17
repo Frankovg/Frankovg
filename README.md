@@ -17,7 +17,7 @@
 
 ## Featured Projects
 
-### Personal Portfolio Website - [View Project](https://github.com/Frankovg/MyWebPortfolio2.0)
+### Personal Portfolio Website <small>- [View Project](https://github.com/Frankovg/MyWebPortfolio2.0)</small>
 
 Modern portfolio site built with Next.js and TypeScript, showcasing my design and development work with a focus on clean UI and smooth user experience.
 
