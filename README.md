@@ -10,7 +10,7 @@
 
 🛠 Working primarily with **TypeScript**, **React**, **Next.js**, and **Tailwind CSS**, with backend experience in **Node.js** and **SQL**.
 
-👨‍💻 Currently working as a Front-End Developer at [**A-SAFE Digital**](https://asafedigital.com/), a software company affiliated with [A-SAFE (UK)](https://www.asafe.com/).
+👨‍💻 Currently working as a Front-End Developer at [A-SAFE Digital](https://asafedigital.com/), a software company affiliated with [A-SAFE (UK)](https://www.asafe.com/).
 
 🕹 Passionate about technology, computing, mountain biking, outdoor adventures, and video games.
 
