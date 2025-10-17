@@ -3,6 +3,7 @@
  **Hello, world! I'm Franco**
 
 ### FullStack Web Developer || UX/UI Designer || Industrial Designer 
+---
 
 ## About Me
 
