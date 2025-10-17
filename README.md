@@ -1,6 +1,6 @@
 ![FullStack Web Developer || Industrial Designer](https://github.com/Frankovg/Frankovg/blob/main/in-banner.png)
 
- Hello, world! I'm Franco
+ **Hello, world! I'm Franco**
 
 ### FullStack Web Developer || UX/UI Designer || Industrial Designer 
 
