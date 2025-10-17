@@ -32,7 +32,7 @@ Git • Figma • Adobe Photoshop • Adobe Illustrator
 
 ## Alternative Account > [FranF3](https://github.com/FranF3) 
 
-![FranF3 last year contributions](https://github.com/Frankovg/Frankovg/blob/main/in-banner.png)
+![FranF3 last year contributions](https://github.com/Frankovg/Frankovg/blob/main/screenshot_franf3.png)
 
 ## Let's Connect
 
