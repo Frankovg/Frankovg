@@ -33,6 +33,8 @@ Git • Figma • Adobe Photoshop • Adobe Illustrator
 
 ## Alternative Account > [FranF3](https://github.com/FranF3) 
 
+Most of my active development work lives here—this is where I contribute to professional and client projects daily.
+
 ![FranF3 last year contributions](https://github.com/Frankovg/Frankovg/blob/main/screenshot_franf3.png)
 
 ## Let's Connect
