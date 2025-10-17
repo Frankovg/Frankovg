@@ -30,6 +30,8 @@ Node.js • Express • Prisma • SQL
 **Tools & Design**  
 Git • Figma • Adobe Photoshop • Adobe Illustrator
 
+## Alternative Account > [FranF3](https://github.com/FranF3) 
+
 ## Let's Connect
 
 📧 **Email:** di.francoamoroso@gmail.com  
