@@ -36,7 +36,7 @@ Git • Figma • Adobe Photoshop • Adobe Illustrator
 
 Most of my active development work lives here—this is where I contribute to professional and client projects daily.
 
-# More than 2600 contrubutions last year
+### More than 2600 contrubutions last year
 
 ![FranF3 last year contributions](https://github.com/Frankovg/Frankovg/blob/main/github_last_year.png)
 
