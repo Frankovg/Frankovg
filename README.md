@@ -24,10 +24,10 @@ Modern portfolio site built with Next.js and TypeScript, showcasing my design an
 ## Tech Stack
 
 **Frontend**  
-React • Next.js • TypeScript • Tailwind CSS • HTML • CSS
+React • Next.js • TypeScript • Tailwind CSS • Inertia • Hotwire • React Native
 
 **Backend**  
-Node.js • Express • Prisma • SQL
+Node.js • Express • Prisma • Ruby on Rails • Supabase
 
 **Tools & Design**  
 Git • Figma • Adobe Photoshop • Adobe Illustrator
