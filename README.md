@@ -7,11 +7,11 @@
 
 ## About Me
 
-💻 Front-end Developer with a background in Industrial Design and UX certification, bringing a unique perspective to software development.
+💻 Software Developer with a background in Industrial Design and UX certification, bringing a unique perspective to software development.
 
-🛠 Working primarily with **TypeScript**, **React**, **Next.js**, and **Tailwind CSS**, with backend experience in **Node.js** and **SQL**.
+🛠 Working primarily with **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, **Node.js** and **SQL**.
 
-👨‍💻 Currently working as a Front-End Developer at [A-SAFE Digital](https://asafedigital.com/), a software company affiliated with [A-SAFE (UK)](https://www.asafe.com/).
+👨‍💻 Currently working as a Software Developer at [A-SAFE Digital](https://asafedigital.com/), a software company affiliated with [A-SAFE (UK)](https://www.asafe.com/).
 
 🕹 Passionate about technology, computing, mountain biking, outdoor adventures, and video games.
 
@@ -23,14 +23,20 @@ Modern portfolio site built with Next.js and TypeScript, showcasing my design an
 
 ## Tech Stack
 
-**Frontend**  
-React • Next.js • TypeScript • Tailwind CSS • Inertia • Hotwire • React Native
+**Programming Languages**
+TypeScript • JavaScript • Ruby • Python • SQL • HTML • CSS
 
-**Backend**  
-Node.js • Express • Prisma • Ruby on Rails • Supabase
+**Front-End**
+React.js • React Native (Expo) • Vue • Tailwind CSS • shadcn/ui • Styled Components • React Query • Zustand
 
-**Tools & Design**  
-Git • Figma • Adobe Photoshop • Adobe Illustrator
+**Full-Stack Frameworks**
+Next.js • Astro • Ruby on Rails (Inertia.js, Hotwire)
+
+**Back-End and Infrastructure**
+Node.js • Express • FastAPI • PostgreSQL • SQLite • Prisma • Convex • Supabase • Vercel • AWS
+
+**Tools, Testing and AI**
+Git • GitHub • Jest • Vitest • Playwright • Storybook • Figma • Claude Code • GitHub Copilot • Codex
 
 ## Alternative Account > [FranF3](https://github.com/FranF3) 
 
